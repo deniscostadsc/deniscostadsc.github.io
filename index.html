@@ -1,1 +1,13 @@
-My site
+---
+layout: default
+title: Página inicial
+meta_description: Blog sobre programação, Linux, web, Python, C/C++, etc..
+meta_keywords: denis, costa, deniscostadsc, python, shell, linux
+---
+
+{% for post in site.posts %}
+    <article>
+        {{ post.date | date: '%d/%m/%Y' }}
+        <a href="{{ post.url }}" title="Post {{ post.title }}">{{ post.title }}</a>
+    </article>
+{% endfor %}
