@@ -27,10 +27,11 @@ main {
 .top-name {
     top: 50%;
     position: absolute;
+    color: #FFF;
 }
 
 .top {
-    color: #FFF;    
+    
     height: 100px;
     position: relative;
     width: 70%;
