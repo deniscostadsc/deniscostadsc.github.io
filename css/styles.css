@@ -6,6 +6,7 @@ body {
     color: #011C40;
     font: 1.4rem Verdana, Arial, Helvetica, sans-serif;
     background-color: #CCCCCC;
+    text-align: justify;
 }
 
 a {
@@ -19,27 +20,32 @@ main {
     width: 70%;
 }
 
+.header {
+    background-color: #011C40;
+}
+
 .top-name {
     top: 50%;
-    left: 30px;
-    position: relative;
+    position: absolute;
 }
 
-.nav {
-    color: #FFF;
-    background-color: #011C40;
+.top {
+    color: #FFF;    
     height: 100px;
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
 }
 
-.nav a {
+.top a {
     color: #CCCCCC;
     text-decoration: none;
 }
 
 .nav-menu {
-    float: right;
+    right: 0;
     top: 50%;
-    position: relative;
+    position: absolute;
 }
 
 .footer {
@@ -49,9 +55,21 @@ main {
     color: #FFF;
     background-color: #011C40;
     height: 100px;
+    position: relative;
 }
 
 .footer a {
     color: #CCCCCC;
     text-decoration: none;
+}
+
+.footer-text {
+    top: 50%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.posts {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }

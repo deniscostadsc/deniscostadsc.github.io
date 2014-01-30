@@ -6,8 +6,10 @@ meta_keywords: denis, costa, deniscostadsc, python, shell, linux
 ---
 
 {% for post in site.posts %}
-    <article>
-        {{ post.date | date: '%d/%m/%Y' }}
-        <a href="{{ post.url }}" title="Post {{ post.title }}">{{ post.title }}</a>
-    </article>
+    <div class="posts">
+        <section>
+            {{ post.date | date: '%d/%m/%Y' }}
+            <a href="{{ post.url }}" title="Post {{ post.title }}">{{ post.title }}</a>
+        </section>
+    </div>
 {% endfor %}
