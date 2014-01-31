@@ -56,7 +56,10 @@ main {
     color: #FFF;
     background-color: #011C40;
     height: 100px;
-    position: relative;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .footer a {
