@@ -28,6 +28,7 @@ main {
     top: 50%;
     position: absolute;
     color: #FFF;
+    font: 2.0rem Verdana, Arial, Helvetica, sans-serif;
 }
 
 .top {
