@@ -3,9 +3,9 @@ body {
     margin: 0;
     padding: 0;
 
-    color: #011C40;
+    color: #011c40;
     font: 1.4rem Verdana, Arial, Helvetica, sans-serif;
-    background-color: #CCCCCC;
+    background-color: #ccc;
     text-align: justify;
 }
 
@@ -28,7 +28,7 @@ main {
 .top-name {
     top: 50%;
     position: absolute;
-    color: #FFF;
+    color: #fff;
     font: 2.0rem Verdana, Arial, Helvetica, sans-serif;
 }
 
@@ -41,7 +41,7 @@ main {
 }
 
 .top a {
-    color: #CCCCCC;
+    color: #ccc;
     text-decoration: none;
 }
 
@@ -56,17 +56,14 @@ main {
     font: 1.2rem Verdana, Arial, Helvetica, sans-serif;
     margin-top: 100px;
     text-align: center;
-    color: #FFF;
-    background-color: #011C40;
+    color: #fff;
+    background-color: #011c40;
     height: 100px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    position: relative;
 }
 
 .footer a {
-    color: #CCCCCC;
+    color: #ccc;
     text-decoration: none;
 }
 
