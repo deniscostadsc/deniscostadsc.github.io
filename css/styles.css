@@ -22,6 +22,7 @@ main {
 
 .header {
     background-color: #011C40;
+    text-shadow: #000 0 2px;
 }
 
 .top-name {
@@ -51,6 +52,7 @@ main {
 }
 
 .footer {
+    text-shadow: #000 0 2px;
     font: 1.2rem Verdana, Arial, Helvetica, sans-serif;
     margin-top: 100px;
     text-align: center;
