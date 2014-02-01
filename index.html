@@ -8,8 +8,9 @@ meta_keywords: denis, costa, deniscostadsc, python, shell, linux
 {% for post in site.posts %}
     <div class="posts">
         <section>
-            {{ post.date | date: '%d/%m/%Y' }}
+            <div class="date">{{ post.date | date: '%d/%m/%Y' }}</div>
             <a href="{{ post.url }}" title="Post {{ post.title }}">{{ post.title }}</a>
+            <div class="sample"><spam>{{ post.content }}<spam></div>
         </section>
     </div>
 {% endfor %}
