@@ -52,7 +52,7 @@ Com a opção ``-v`` são adicionadas no topo da saída do comando, informaçõe
 
 A forma mais comum do fazer um login nos dias atuais é com um formulário HTML usando o método POST e, caso tenha sucesso identificando o usuário, salvando um cookie no browser do usuário.
 
-Para fazer uma requisição usando o método [POST](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5 "Texto da especificação do HTTP/1.1 sobre o método POST") com ``curl`` basta indicar os dados que você deseja postar com a opção ``--data``, e o ``curl`` infere qual método será usado. Para demostrar isso vou usar uma [aplicação de teste](limitless-harbor-1705.herokuapp.com "Aplicação de teste") que tenho on [Heroku](https://www.heroku.com/ "Site do Heroku.").
+Para fazer uma requisição usando o método [POST](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5 "Texto da especificação do HTTP/1.1 sobre o método POST") com ``curl`` basta indicar os dados que você deseja postar com a opção ``--data``, e o ``curl`` infere qual método será usado. Para demostrar isso vou usar uma [aplicação de teste](https://limitless-harbor-1705.herokuapp.com "Aplicação de teste") que tenho no [Heroku](https://www.heroku.com/ "Site do Heroku.").
 
 {% highlight bash lineos %}
     curl -v --data \
