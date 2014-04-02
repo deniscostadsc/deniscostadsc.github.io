@@ -33,7 +33,7 @@ main {
 }
 
 .top {
-    
+
     height: 100px;
     position: relative;
     width: 70%;
@@ -101,4 +101,8 @@ main {
     padding: 5px;
     background-color: #011c40;
     color: #fff;
+}
+
+.profile-links {
+    text-align: center;
 }
