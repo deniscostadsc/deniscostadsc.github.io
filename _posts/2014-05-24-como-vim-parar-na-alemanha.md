@@ -17,7 +17,7 @@ Minha primeira oportunidade de morar fora foi com o programa do Governo Federal 
 
 ### O início
 
-Antes de mais nada vou tentar explicar o que é a [AIESEC](http://www.aiesec.org.br/sobre/ "Site da AIESEC"). A AIESEC, de maneira bem resumida, é uma ONG comandada por estudantes de mais de 100 países que visa desenvolver atributos que você não aprende na faculdade, como empreendedorismo, liderança e etc.. E eles fazem isso possibilitando que estudantes façam intercâmbio para outros países onde a AIESEC também tem sede. O trabalho dos voluntários da AIESEC é garantir que esse ecossistema de intercâmbio funcione de maneira sustentável.
+Antes de mais nada vou tentar explicar o que é a [AIESEC](http://www.aiesec.org.br/sobre/ "Site da AIESEC"). A AIESEC, de maneira bem resumida, é uma ONG comandada por estudantes de mais de 100 países que visa desenvolver atributos que você não aprende na faculdade, como empreendedorismo, liderança e etc.. E eles fazem isso possibilitando que outros estudantes façam intercâmbio para outros países onde a AIESEC também tem sede. O trabalho dos voluntários da AIESEC é garantir que esse ecossistema de intercâmbio funcione de maneira sustentável.
 
 Anos depois que a minha tentativa de estudar na Inglaterra tinha falhado, no meu último ano de faculdade, alguns membros da AIESEC foram à minha faculdade para falar quem eles são e o que eles fazem. Vi ali novamente uma ótima oportunidade de ir para o exterior. Então, alguns colegas da faculdade e eu decidimos nos inscrever para tentar participar do programa de intercâmbio da AIESEC.
 
