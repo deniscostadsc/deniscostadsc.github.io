@@ -4,7 +4,7 @@ layout: default
 
 <article>
     <h2>{{ page.title }}</h2>
-    <div>{{ page.date | date: '%d/%m/%Y' }}</div>
+    <p>{{ page.date | date: '%d/%m/%Y' }}</p>
     {{ content }}
     Tags:
     {% for tag in page.tags %}
