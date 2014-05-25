@@ -7,7 +7,7 @@ category: offtopic
 tags: [Viagem, Offtopic]
 ---
 
-A muito tempo eu tinha vontade de morar, pelo menos por um tempo, fora do Brasil. E esse ano de 2014 conseguir iniciar um intercâmbio de um ano, estagiando em Aachen, Alemanha. Uma pequena cidade universitária alemã.
+A muito tempo eu tinha vontade de morar, pelo menos por um período, fora do Brasil. E esse ano de 2014 conseguir iniciar um intercâmbio de um ano, estagiando em Aachen, Alemanha. Uma pequena cidade universitária alemã.
 
 Nesse post vou falar sobre como foi esse processo até aqui. Como a intenção deste texto é ajudar a maior quantidadede pessoas possível, então vou falar detalhadamente sobre coisa que podem ser óbvias para algumas pessoas, mas não são para todos. Principalmente para quem nunca viajou para o exterior.
 
