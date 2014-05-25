@@ -48,7 +48,7 @@ Visto Alemão                       | Consulado/Embaixada Alemã
 Permissão de Trabalho              | Empresa/AIESEC de destino
 Seguro de saúde                    | Empresa/AIESEC de destino
 Certidão de estágio obrigatório    | Faculdade
-Certidão de vículo com a faculdade | Faculdade
+Certidão de vínculo com a faculdade | Faculdade
 
 Ainda são necessários alguns documentos da AIESEC, mas desses eu não vou comentar. Caso você decida fazer intercâmbio com eles, alguém de dentro com certeza pode explicar bem melhor que eu.
 
