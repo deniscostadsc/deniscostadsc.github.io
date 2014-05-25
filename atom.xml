@@ -1,0 +1,24 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>denicostadsc.com</title>
+    <link href="http://deniscostadsc.com/"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>http://deniscostadsc.com/</id>
+    <author>
+        <name>Denis Costa</name>
+        <email>deniscostadsc@gmail.com</email>
+    </author>
+
+    {% for post in site.posts %}
+        <entry>
+            <id>http://deniscostadsc.com{{ post.id }}</id>
+            <title>{{ post.title }}</title>
+            <link type="text/html" href="http://deniscostadsc.com{{ post.url }}"/>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <content type="html">{{ post.content | xml_escape }}</content>
+        </entry>
+ {% endfor %}
+</feed>
