@@ -4,7 +4,7 @@ title: 50 Pythonistas para seguir no twitter
 meta_description: Perfis de 50 grandes pythonistas para seguir.
 meta_keywords: Python
 category: Comunidade
-tags: [Comunidade, Programming, Python]
+tags: [Comunidade, Programação, Python]
 ---
 
 A alguns anos atrás um blog post (infelizmente eu não tenho o link) ficou um pouco famoso na comunidade Ruby. Ele reunia 50 rubistas para se seguir no Twitter. Como não achei nada parecido da comunidade Python, resolvi fazer uma lista. Esses são os perfis:

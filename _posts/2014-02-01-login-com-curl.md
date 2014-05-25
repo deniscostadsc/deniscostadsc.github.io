@@ -4,7 +4,7 @@ title: Login com curl
 meta_description: Fazendo login com curl.
 meta_keywords: curl, web, login, cookie
 category: Programming
-tags: [Curl, Programming, Web]
+tags: [Curl, Programação, Web]
 ---
 
 As vezes queremos acessar uma aplicação web para procurar falhas, ou fazer alguma tipo de investigação minuciosa.
@@ -30,7 +30,7 @@ O resultado desse comando não mostra nenhuma informação muito útil, apenas o
     > User-Agent: curl/7.29.0
     > Host: www.example.com
     > Accept: */*
-    > 
+    >
     < HTTP/1.1 200 OK
     < Accept-Ranges: bytes
     < Cache-Control: max-age=604800
@@ -43,7 +43,7 @@ O resultado desse comando não mostra nenhuma informação muito útil, apenas o
     < X-Cache: HIT
     < x-ec-custom-error: 1
     < Content-Length: 1270
-    < 
+    <
     <!doctype html>
     ...
 {% endhighlight %}
@@ -68,7 +68,7 @@ Para fazer uma requisição usando o método [POST](http://www.w3.org/Protocols/
     > Accept: */*
     > Content-Length: 45
     > Content-Type: application/x-www-form-urlencoded
-    > 
+    >
     * upload completely sent off: 45 out of 45 bytes
     < HTTP/1.1 302 FOUND
     < Content-Type: text/html; charset=utf-8
@@ -78,7 +78,7 @@ Para fazer uma requisição usando o método [POST](http://www.w3.org/Protocols/
     < Set-Cookie: session=HNAXNoQ9wwt3ISmlQ; HttpOnly; Path=/
     < Content-Length: 225
     < Connection: keep-alive
-    < 
+    <
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
     ...
 {% endhighlight %}
@@ -101,7 +101,7 @@ A aplicação de teste que eu usei, depois do login com sucesso redireciona o us
     > Accept: */*
     > Content-Length: 45
     > Content-Type: application/x-www-form-urlencoded
-    > 
+    >
     * upload completely sent off: 45 out of 45 bytes
     < HTTP/1.1 302 FOUND
     < Content-Type: text/html; charset=utf-8
@@ -111,7 +111,7 @@ A aplicação de teste que eu usei, depois do login com sucesso redireciona o us
     < Set-Cookie: session=HNAXNoQ9wwt3ISmlQ...; HttpOnly; Path=/
     < Content-Length: 225
     < Connection: keep-alive
-    < 
+    <
     * Ignoring the response-body
     * Connection #0 to host limitless-harbor-1705.herokuapp.com left intact
     * Issue another request to this URL: 'http://limitless-harbor-1705...
@@ -123,14 +123,14 @@ A aplicação de teste que eu usei, depois do login com sucesso redireciona o us
     > User-Agent: curl/7.29.0
     > Host: limitless-harbor-1705.herokuapp.com
     > Accept: */*
-    > 
+    >
     < HTTP/1.1 401 UNAUTHORIZED
     < Content-Type: text/html; charset=utf-8
     < Date: Sat, 01 Feb 2014 22:38:45 GMT
     < Server: gunicorn/18.0
     < Content-Length: 2483
     < Connection: keep-alive
-    < 
+    <
     <!DOCTYPE html>
     ...
 {% endhighlight %}
@@ -163,7 +163,7 @@ Uma forma mais fácil de fazer isso é salvado o cabeçalho em um arquivo e reut
     > Host: limitless-harbor-1705.herokuapp.com
     > Accept: */*
     > Cookie: session=HNAXNoQ9wwt3ISmlQ...;
-    > 
+    >
     < HTTP/1.1 200 OK
     < Content-Type: text/html; charset=utf-8
     < Date: Sun, 02 Feb 2014 00:13:33 GMT
@@ -172,7 +172,7 @@ Uma forma mais fácil de fazer isso é salvado o cabeçalho em um arquivo e reut
     < Set-Cookie: session=HNAXNoQ9wwt3ISmlQ...;; HttpOnly; Path=/
     < Content-Length: 7132
     < Connection: keep-alive
-    < 
+    <
     <!DOCTYPE html>
     ...
 {% endhighlight %}
