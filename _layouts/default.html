@@ -11,9 +11,22 @@
         <link rel="icon" type="image/ico" href="/images/favicon.ico">
         <title>deniscostadsc.com{% if page.title %} - {{ page.title}}{% endif %}</title>
         <style>
+            @media screen and (min-width:600px) {
+                body {
+                    padding: 3% 10%;
+                }
+            }
+
+            @media screen and (min-width:800px) {
+                body {
+                    padding: 5% 20%;
+                }
+            }
+
             body {
                 font-family: 'Ubuntu', sans-serif;
             }
+
             a {
                 text-decoration: none;
                 color: #777777;
