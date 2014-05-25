@@ -9,17 +9,17 @@ tags: [Viagem, Offtopic]
 
 A muito tempo eu tinha vontade de morar, pelo menos por um período, fora do Brasil. E esse ano de 2014 conseguir iniciar um intercâmbio de um ano, estagiando em Aachen, Alemanha. Uma pequena cidade universitária alemã.
 
-Nesse post vou falar sobre como foi esse processo até aqui. Como a intenção deste texto é ajudar a maior quantidadede pessoas possível, então vou falar detalhadamente sobre coisa que podem ser óbvias para algumas pessoas, mas não são para todos. Principalmente para quem nunca viajou para o exterior.
+Nesse post vou falar sobre como foi esse processo até aqui. Como a intenção deste texto é ajudar a maior quantidade de pessoas possível, então vou falar detalhadamente sobre coisa que podem ser óbvias para algumas pessoas, mas não são para todos. Principalmente para quem nunca viajou para o exterior.
 
 ### A semente
 
-Minha primeira oportunidade de morar fora foi com o programa do Governo Federal, o [Ciência sem Fronteiras](http://www.cienciasemfronteiras.gov.br "Site do Ciência sem Fronteiras"). Logo no seu primeiro edital, a Inglaterra era o único país na época que não pedia o [TOEFL](www.ets.org/toefl "Site oficial do TOEFL"), que para quem não conhece, é uma certificado de lingua inglesa, mundialmente reconhecido. Como esse teste era bem caro pra mim na época, optei pela Inglaterra. O sonho ficou um pouco mais próximo quando recebi um email falando que eu tinha passado para a segunda fase do processo seletivo. Fiquei muito feliz! Mas esse mesmo email falava que eu tinha que enviar o meu certificado do TOEFL, em alguns dias. Data inviável para fazer o exame, que já estava fora de cogitação por causa do valor. E meus planos de morar um tempo fora não deram certo dessa vez. Mas o vontade de morar fora não passou, acho que na verdade só aumentou depois desse acontecimento.
+Minha primeira oportunidade de morar fora foi com o programa do Governo Federal, o [Ciência sem Fronteiras](http://www.cienciasemfronteiras.gov.br "Site do Ciência sem Fronteiras"). Logo no seu primeiro edital, a Inglaterra era o único país na época que não pedia o [TOEFL](www.ets.org/toefl "Site oficial do TOEFL"), que para quem não conhece, é uma certificado de língua inglesa, mundialmente reconhecido. Como esse teste era bem caro pra mim na época, optei pela Inglaterra. O sonho ficou um pouco mais próximo quando recebi um email falando que eu tinha passado para a segunda fase do processo seletivo. Fiquei muito feliz! Mas esse mesmo email falava que eu tinha que enviar o meu certificado do TOEFL, em alguns dias. Data inviável para fazer o exame, que já estava fora de cogitação por causa do valor. E meus planos de morar um tempo fora não deram certo dessa vez. Mas a vontade de morar fora não passou, acho que na verdade só aumentou depois desse acontecimento.
 
 ### O início
 
-Antes de mais nada vou tentar explicar o que é a [AIESEC](http://www.aiesec.org.br/sobre/ "Site da AIESEC"). A AIESEC, de maneira bem resumida, é uma ONG comandada por estudantes de mais de 100 países que visa desenvolver atributos que você não aprende na faculdade, como empreendedorismo, liderança e etc.. E eles fazem isso possibilitando que estudantes façam intercâmbio para outros países onde a AIESEC também tem sede. O trabalho dos voluntários da AIESEC é garantir que esse ecosistema de intercâmbio funcione de maneira sustentável.
+Antes de mais nada vou tentar explicar o que é a [AIESEC](http://www.aiesec.org.br/sobre/ "Site da AIESEC"). A AIESEC, de maneira bem resumida, é uma ONG comandada por estudantes de mais de 100 países que visa desenvolver atributos que você não aprende na faculdade, como empreendedorismo, liderança e etc.. E eles fazem isso possibilitando que estudantes façam intercâmbio para outros países onde a AIESEC também tem sede. O trabalho dos voluntários da AIESEC é garantir que esse ecossistema de intercâmbio funcione de maneira sustentável.
 
-Anos depois que a minha tentativa de estudar na Inglaterra tinha falhado, no meu último ano de faculdade, alguns membros da AIESEC foram à minha faculdade para falar quem eles são e o que eles fazem. Vi ali novamente uma ótima oportunidade de ir para o exterior. Então, alguns colegas da faculdade e eu decidimos nos inscrever para tentar participar do programar de intercâmbio da AIESEC.
+Anos depois que a minha tentativa de estudar na Inglaterra tinha falhado, no meu último ano de faculdade, alguns membros da AIESEC foram à minha faculdade para falar quem eles são e o que eles fazem. Vi ali novamente uma ótima oportunidade de ir para o exterior. Então, alguns colegas da faculdade e eu decidimos nos inscrever para tentar participar do programa de intercâmbio da AIESEC.
 
 ### O processo
 
@@ -29,13 +29,13 @@ Para quem trabalha com tecnologia sobram vagas no banco de dados da AIESEC, ent�
 
 Dois processos seletivos que eu iniciei, foram adiante. Um para a Finlândia e outro para a Alemanha. A primeira parte do processo da empresa finlandesa, foi um teste prático. A Code4Business, a empresa alemã, fez duas entrevistas em dias diferentes via Skype.
 
-Como eu fiz o processo seletivo das duas empresas ao mesmo tempo, eu fiquei muito indeciso para onde ir. Cada oportunidade tinha pontos forte e fracos. Mas empresas resolveram me ajudar e decidiram por mim. A da Finlândia disse não, e a da Alemanha disse sim.
+Como eu fiz o processo seletivo das duas empresas ao mesmo tempo, eu fiquei muito indeciso para onde ir. Cada oportunidade tinha pontos fortes e fracos. Mas empresas resolveram me ajudar e decidiram por mim. A da Finlândia disse não, e a da Alemanha disse sim.
 
 ### Os documentos
 
 Depois da euforia de saber que passei no processo seletivo para uma empresa de outro país, vem o estresse com documentação. Alguns documentos você vai precisar independente do país. Como o passaporte. É fácil pedir o passaporte e o processo inteiro está descrito no [site da Polícia Federal](http://www.dpf.gov.br/servicos/passaporte/requerer-passaporte "Site da Polícia Federal").
 
-A Alemanha, como muitos outros países, exige alguns documentos para permitir emitir vistos para estrangeiros. Não conheço o processo para outros tipos de visto. Mas eles tem um tipo de visto específico para estudantes que desejam estagiar na Alemanha. Vocês pode conseguir mais informações no site da [Representação Alemã no Brasil](http://www.brasil.diplo.de/contentblob/2681184/Daten/707135/Merkblatt_Praktikum.pdf "Pdf que explica o processo do visto para estágio na Alemanha."). Mas para pedir o visto você já precisar ter em mãos o contrato de trabalho, um comprovante da compra de um seguro de saúde e a permissão de trabalho. No meu caso a empresa e a AIESEC cuidaram disso para mim. Em outros caso não sei como funcionaria.
+A Alemanha, como muitos outros países, exige alguns documentos para permitir emitir vistos para estrangeiros. Não conheço o processo para outros tipos de visto. Mas eles tem um tipo de visto específico para estudantes que desejam estagiar na Alemanha. Vocês pode conseguir mais informações no site da [Representação Alemã no Brasil](http://www.brasil.diplo.de/contentblob/2681184/Daten/707135/Merkblatt_Praktikum.pdf "Pdf que explica o processo do visto para estágio na Alemanha."). Mas para pedir o visto você já precisa ter em mãos o contrato de trabalho, um comprovante da compra de um seguro de saúde e a permissão de trabalho. No meu caso a empresa e a AIESEC cuidaram disso para mim. Em outros caso não sei como funcionaria.
 
 Como brasileiros não precisam de visto para permanecer na Alemanha por menos de 90 dias, alguns intercambistas viajam sem visto e fazem o pedido de visto já dentro da Alemanha. Não sei o quão fácil é conseguir o visto dessa maneira. Conheço gente que venho dessa forma, mas eu decidi fazer o pedido no Brasil e esperar.
 
@@ -58,13 +58,13 @@ Como o visto alemão demora a sair, quando ele sai você tem que comprar suas pa
 
 A compra das passagens foi uma dose de adrenalina. Tentei comprar as passagens no site da Lufthansa (que por sinal é horrível, em todos os aspectos), com um cartão de crédito (única forma de pagamento dentro do Brasil. E eles não parcelam), e este não tinha limite. Então para efetivamente comprar as passagens eu tinha que ligar para passar outro cartão de crédito com limite. Isso faltando 3 dias para a viagem. Mas no final consegui comprar as passagens.
 
-Aqui vai uma dica muito importante: Leia atentamente **TODAS** as informaçoes do seu bilhete de viagem. Eu por exemplo descobri já em Frankfurt que não pegaria um segundo avião para Köln, e sim um trem. A pressa e a inexperiência foram minhas inimigas nesse momento, mas esperam que não cometam o mesmo erro. Pois pra mim não teve maiores consequências, mas imprevistos podem acontecer e estragar sua viagem logo no início.
+Aqui vai uma dica muito importante: Leia atentamente **TODAS** as informaçoes do seu bilhete de viagem. Eu por exemplo descobri já em Frankfurt que não pegaria um segundo avião para Köln, e sim um trem. A pressa e a inexperiência foram minhas inimigas nesse momento, mas espero que não cometam o mesmo erro. Pois pra mim não teve maiores consequências, mas imprevistos podem acontecer e estragar sua viagem logo no início.
 
 ### A viagem
 
 Aqui o coração começa a apertar. Você se sente extremamente excitado, ansioso ao mesmo tempo que está muito triste por deixar pessoas que ama em outro continente.
 
-Para quem não está acostumado ou não gosta (meu caso) de viagens longo é bem cansativo. O voo demorou umas 10-11 horas até Frankfurt, daí fui de trem para Köln. O sistema de trem na Alemanha e na Europa como um todo é muito bom. Dá, por exemplo, pra pegar um trem daqui de Aachen direta para Paris.
+Para quem não está acostumado ou não gosta (meu caso) de viagens longas é bem cansativo. O voo demorou umas 10-11 horas até Frankfurt, daí fui de trem para Köln. O sistema de trem na Alemanha e na Europa como um todo é muito bom. Dá, por exemplo, pra pegar um trem daqui de Aachen direto para Paris.
 
 ### A chegada
 
@@ -87,7 +87,7 @@ Passagens de Avião                    | R$ 2948,28
 
 ### Conclusões
 
-Para quem tem sérias restrições financeiras (que até poderia ser o meu caso), esse tipo de coisa pode ser bem complicado. Mas eu garanto que vale a pena. Talvez você deva tentar de outras formas, como o próprio Ciências sem Fronteiras que custeia praticamente tudo pra você fazer intercambio.
+Para quem tem sérias restrições financeiras (que até poderia ser o meu caso), esse tipo de coisa pode ser bem complicado. Mas eu garanto que vale a pena. Talvez você deva tentar de outras formas, como o próprio Ciências sem Fronteiras que custeia praticamente tudo pra você fazer intercâmbio.
 
 O método é o que menos importa. O importante é conhecer o mundo.
 
