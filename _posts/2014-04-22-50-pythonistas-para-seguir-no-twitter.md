@@ -7,7 +7,7 @@ category: Comunidade
 tags: [Comunidade, Programming, Python]
 ---
 
-A alguns anos atrás um blog post (infelizmente eu não tenho o link) ficou um pouco famoso na comunidade. Ele reunia 50 rubistas para se seguir no Twitter. Como não achei nada parecido da comunidade Python, resolvi fazer uma lista. Esses são os perfis:
+A alguns anos atrás um blog post (infelizmente eu não tenho o link) ficou um pouco famoso na comunidade Ruby. Ele reunia 50 rubistas para se seguir no Twitter. Como não achei nada parecido da comunidade Python, resolvi fazer uma lista. Esses são os perfis:
 
 * [@adrianholovaty](http://www.twitter.com/adrianholovaty "Perfil no Twitter de @adrianholovaty")
 * [@alex_gaynor](http://www.twitter.com/alex_gaynor "Perfil no Twitter de @alex_gaynor")
