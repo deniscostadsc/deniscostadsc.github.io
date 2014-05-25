@@ -41,13 +41,13 @@ Como brasileiros não precisam de visto para permanecer na Alemanha por menos de
 
 Assim como no Brasil, quem trabalha precisa pagar impostos. Aqui até estagiários recolhem imposto. Mas aqui na Alemanha se o seus estágio é obrigatório para se graduar, você não precisa pagar nenhum impostos. Então você precisa de dois documentos da sua faculdade: Um afirma que que você tem um vínculo com a faculdade até quando esse vínculo existirá. O segundo afirma que seu estágio é obrigatório. Aconselho pedir esses documentos assim que começar a pensar a fazer o intercâmbio. Algumas faculdades demoram bastante para liberar documentos incomuns como esse. E se estiver em inglês pior ainda. Para facilitar, a [AIESEC possui templates](https://drive.google.com/folderview?id=0B-hKicxbbe0EczRkbFJGSU9sVUk&usp=sharing "Templates de documentos necessários") de como devem ser o textos destes documentos.
 
-Documento                          | Onde conseguir?
----------------------------------: | :------------------------
-Passaporte                         | Polícia Federal
-Visto Alemão                       | Consulado/Embaixada Alemã
-Permissão de Trabalho              | Empresa/AIESEC de destino
-Seguro de saúde                    | Empresa/AIESEC de destino
-Certidão de estágio obrigatório    | Faculdade
+Documento                           | Onde conseguir?
+----------------------------------: | :------------------------
+Passaporte                          | Polícia Federal
+Visto Alemão                        | Consulado/Embaixada Alemã
+Permissão de Trabalho               | Empresa/AIESEC de destino
+Seguro de saúde                     | Empresa/AIESEC de destino
+Certidão de estágio obrigatório     | Faculdade
 Certidão de vínculo com a faculdade | Faculdade
 
 Ainda são necessários alguns documentos da AIESEC, mas desses eu não vou comentar. Caso você decida fazer intercâmbio com eles, alguém de dentro com certeza pode explicar bem melhor que eu.
