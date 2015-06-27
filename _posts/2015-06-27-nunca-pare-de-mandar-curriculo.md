@@ -53,8 +53,11 @@ a sofrer da "Síndrome de Embraer".
 Mandar currículo para vagas nessas empresas, mesmo que você não queira
 mudar de emprego, vai validar as suas suposições sobre a sua empregabilidade.
 
-A um certo tempo, [eu queria fazer intercâmbio](/offtopic/2014/05/24/como-vim-parar-na-alemanha.html "Post sobre como fui parar na alemanha")
-, e não tinha currículo em inglês. Resolvi traduzir o meu e testar em uma
+A um certo tempo,
+[eu queria fazer intercâmbio](
+    /offtopic/2014/05/24/como-vim-parar-na-alemanha.html
+    "Post sobre como fui parar na alemanha"),
+e não tinha currículo em inglês. Resolvi traduzir o meu e testar em uma
 grande multinacional da minha área. Fui chamado para fazer uma primeira
 entrevista. Obviamente eu falei não, pois eu queria mesmo era fazer o tal do
 intercâmbio. Mas essa ação que me custou 10 minutos, já validou se o meu
