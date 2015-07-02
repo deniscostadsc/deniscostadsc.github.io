@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nunca pare de mandar currículo
+meta_title: Nunca pare de mandar currículo
 meta_description: Neste post falo como medir o mercado, seu valor, e empregabilidade.
 meta_keywords: carreira
 category: career
@@ -41,7 +42,7 @@ A Embraer, é apenas um exemplo. Mas esse tipo de bolha infelizmente não é rar
 Pra saber o que o mercado tem cobrado, a coisa mais fácil a se fazer é
 acompanhar as vagas nas empresas que mais se destacam no mercado que você
 gostaria de trabalhar. Além de não ter o trabalho (que trabalho duro, né?) de
-mandar currículos, essas vagas já tem dão um bom indício do que o mercado está
+mandar currículos, essas vagas já te dão um bom indício do que o mercado está
 exigindo dos empregados hoje em dia.
 
 E obviamente, várias dessas vagas vão pedir conhecimento que você não domina.
@@ -67,7 +68,7 @@ currículo em inglês era razoavelmente legível e inspirava interesse.
 
 Falar de dinheiro é tabu pra muita gente e eu pretendo falar de maneira mais
 profunda sobre isso em outro blog post. Mas geralmente, não saber o seu valor
-de marcado indica de que você está sendo mal pago.
+de mercado indica de que você está sendo mal pago.
 
 Ir para a segunda fase de um processo seletivo, já indica que sua atual
 experiência não é muito diferente da necessidade do mercado. Mas também vai te
