@@ -114,11 +114,15 @@ aumento se o projeto não atrasar mais de 15% do tempo.
 
 ##### Depois da conversa
 
+As anotações feitas durante a reunião (caso você tenha feito alguma) são
+extremamente importantes, caso você precise tomar alguma ação para de fato conseguir um aumento.
+
+Estão ali as medidas que você precisa para conseguir o seu aumento de salário.
 
 ### Perguntas frequentes
 
-- O que eu faço se o meu chefe falar que não vai me dar aumento por que não tem
-dinheiro?
+*__O que eu faço se o meu chefe falar que não vai me dar aumento por que não tem
+dinheiro?__*
 
 Se a sua empresa abre as contas para os funcionários, então **procure outro
 emprego**!
@@ -126,8 +130,8 @@ emprego**!
 Se a sua empresa não abre as contas para os funcionários, então **procure outro
 emprego**!
 
-- O que eu faço se o meu chefe falar que não vai me dar um aumento por que eu
-"ainda não tenho experiêcia suficiente e preciso melhorar em alguns pontos"?
+*__O que eu faço se o meu chefe falar que não vai me dar um aumento por que eu
+"ainda não tenho experiêcia suficiente e preciso melhorar em alguns pontos"?__*
 
 Se o seu chefe falou exatamente os detalhes que você precisa melhorar e isso
 faz sentido, melhore esses pontos e volte a conversar sobre aumento novamente
