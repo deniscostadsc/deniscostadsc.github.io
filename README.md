@@ -1,27 +1,17 @@
-# Meu blog
+# Meu Blog
 
-Pra rodar o blog você precisa do rvm:
+## Pré-requisitos
 
-    curl -sSL https://get.rvm.io | bash -s stable
+- Docker
+- Make
 
-Reinicie o terminal, e instale a versão 2.0 do Ruby:
+## Rodando com Docker
 
-    rvm install 2.0.0
+```bash
+make build
+make run
+```
 
-Inicie o interpratador do ruby:
+Acesse `http://localhost:4000`
 
-    rvm use 2.0.0
-
-Instale o bundle:
-
-    gem install bundle
-
-Instale as dependências do blog:
-
-    bundle install
-
-Pra rodar o blog basta rodar:
-
-    jekyll -w serve
-
-Aí basta acessar localhost:4000 no browser
+Para parar: `Ctrl+C` ~~parece bugado~~

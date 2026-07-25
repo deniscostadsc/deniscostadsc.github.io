@@ -1,3 +1,6 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'github-pages', '4'
+gem 'base64', '0.3.0'
+gem 'github-pages'
+gem 'rdiscount'
+gem 'webrick'
